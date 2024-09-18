@@ -10,7 +10,7 @@ namespace ConsoleApp2
     {
         static void Main(string[] args)
         {
-            string str="Hello1";
+            string str="Hello Modify";
             Console.WriteLine(str);
             Console.ReadLine();
         }
